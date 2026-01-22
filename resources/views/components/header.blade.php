@@ -12,7 +12,7 @@
                                     </svg>
                                     Vendas
                                 </a> </li>
-                            <li class="nav-item"> <a class="nav-link d-flex align-items-center gap-2" href="#">
+                            <li class="nav-item"> <a class="nav-link d-flex align-items-center gap-2" href="{{ route('produtos.index') }}">
                                     <svg class="bi" aria-hidden="true">
                                         <use xlink:href="#cart"></use>
                                     </svg>
